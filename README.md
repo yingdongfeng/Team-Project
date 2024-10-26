@@ -13,8 +13,14 @@ This is the project repository for our team.
 3. Running the App
    npm start
 4. Authors
+   
    Logan Munn
+
    Kiran
+
    yingdongfeng(yingdong@email.sc.edu)
+
    ADhill01
+
    KaidiLyu
+   
